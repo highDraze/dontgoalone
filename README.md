@@ -1,6 +1,5 @@
-# dontgoalone
+dontgoalone
 A collection of useful information about privacy and security on the net
-
 # Online Safty and Security Guide
  ### A small guide about Privacy and how to protect yourself.
 #### by JONAS M.B.
